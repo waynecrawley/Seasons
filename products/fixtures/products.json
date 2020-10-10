@@ -1,0 +1,16 @@
+[
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "hc1001",
+      "name": "Michael Myers H20 Halloween",
+      "description": "This fancy dress costume comes from 1998's Halloween H2O, when Michael comes back to try and murder his sister and her son. You're sure to look the part in Myers' classic blue dungarees and creepy mask, while you even get a fake knife to use as a prop!",
+      "price": 20.00,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "https://images.partycity.ie/FANC/15/339/front/v11/flxm/4.jpg",
+      "image": "michaelmyers.jpg"
+    }
+  }
+]
