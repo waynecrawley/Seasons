@@ -12,5 +12,19 @@
       "image_url": "https://images.partycity.ie/FANC/15/339/front/v11/flxm/4.jpg",
       "image": "michaelmyers.jpg"
     }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "hc1002",
+      "name": "The Joker",
+      "description": "You’ll have them all in stitches with this officially licensed Heath Ledger-era Joker costume straight from The Dark Knight movie, consisting of an easy-to-wear jacket with attached top and trousers, plus flexible mask with his iconic makeup and scarring.",
+      "price": 25.00,
+      "category": 1,
+      "rating": 4.8,
+      "image_url": "https://images.partycity.ie/FANC/17/670/front/v2/flxm/4.jpg",
+      "image": "joker.jpg"
+    }
   }
 ]
