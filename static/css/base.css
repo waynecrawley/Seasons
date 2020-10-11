@@ -27,8 +27,6 @@ body {
     width: fit-content;
 }
 
-
-
 .shop-now-button {
     background: black;
     color: white;
@@ -38,6 +36,19 @@ body {
 .btn-black {
     background: black;
     color: white;
+}
+
+.btn-outline-black {
+    background: white;
+    color: black !important; /* use important to override link colors for <a> elements */
+    border: 1px solid black;
+}
+
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+    background: black;
+    color: white !important;
 }
 
 .shop-now-button:hover,
@@ -54,15 +65,11 @@ body {
     color: #000 !important;
 }
 
-.text-white{
-    color: #fff;
-}
-
 .border-black {
     border: 1px solid black !important;
 }
 
-.bg-black{
+.bg-black {
     background: #000 !important;
 }
 
@@ -92,8 +99,6 @@ a.category-badge > span.badge:hover {
 .btt-link {
     cursor: pointer;
 }
-
-
 
 /* -------------------------------- Media Queries */
 
